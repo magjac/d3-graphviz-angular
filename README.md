@@ -1,4 +1,8 @@
-# MyApp
+# Demo of d3-graphviz in Angular (MyApp modified)
+
+This is the standard Angular app generated with `ng new my-app` with the default contents replaced with a demo of [d3-graphviz](https://github.com/magjac/d3-graphviz).
+
+The rest of this README is the standard Angular README.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
