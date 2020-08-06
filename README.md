@@ -4,7 +4,7 @@ This is the standard Angular app generated with `ng new my-app` with the default
 
 The rest of this README is the standard Angular README.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
 
 ## Development server
 
