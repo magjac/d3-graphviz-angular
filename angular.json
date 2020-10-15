@@ -11,6 +11,7 @@
       "prefix": "app",
       "architect": {
         "build": {
+          "allowedCommonJsDependencies": ["d3-graphviz"],
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
             "outputPath": "dist/d3-graphviz-angular",
